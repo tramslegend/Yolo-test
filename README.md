@@ -21,3 +21,4 @@ We use GitHub [Issues tracker][issues-url] for our project. Feel free to create 
 [issues-url]: https://github.com/tradingview/charting_library/issues
 [x-url]: https://twitter.com/intent/follow?screen_name=tv_charts
 [discord-url]: https://discord.gg/UC7cGkvn4U
+yolo test
